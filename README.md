@@ -11,7 +11,7 @@ Steps to run:
 6. Whenever your contact is online, you can see the status on the console with time.
 
 Run the below command to execute this script:
-python "WhatsApp-Online=Tracker.py"
+python "WhatsApp Online Tracker.py"
 
 Note: ChromeDriver is required to run this script.
 
